@@ -1,16 +1,9 @@
-phrase = "Hello World!"
-
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-
 def greeting
-  puts "Hi, Ruby programmer!"
+  puts "Hello World"
 end
+ 
+greeting
+greeting
+greeting
+greeting
+greeting
